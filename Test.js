@@ -1,1 +1,2 @@
-alert('test');
+var name = 'test';
+console.log(name);
